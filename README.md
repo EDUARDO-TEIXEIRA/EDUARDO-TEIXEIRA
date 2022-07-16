@@ -1,7 +1,8 @@
 ## Olá, meu nome é Eduardo Teixeira. Bem vindo (a) ao meu GitHub 👋<br/>
+####  Redes Sociais
 <a href="https://linkedin.com/in/eduardo-felicidade" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/EDUARDO-TEIXEIRA/arquivos-midia/blob/main/linkedin.svg" /> 
 <a href="https://t.me/eduardoteixeira" target="_blank"><img width="23px" src="https://github.com/EDUARDO-TEIXEIRA/arquivos-midia/blob/main/telegram.svg" target="_blank"></a>
-<a href="https://www.instagram.com/eduardo_felic/" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/EDUARDO-TEIXEIRA/arquivos-midia/blob/main/instagram.svg" /> 
+<a href="https://www.instagram.com/eduardo_felic/" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/EDUARDO-TEIXEIRA/arquivos-midia/blob/main/instagram.svg"/> 
   <a href="mailto:eduardo_teixeiraa@hotmail.com" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/EDUARDO-TEIXEIRA/arquivos-midia/blob/main/email.svg" /> 
 <br/>
 
@@ -16,7 +17,7 @@
     <img widht="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-teixeira&layout=compact&langs_count=7&theme=dark"/>
 </div>
           
-### 🌱 Atualmente estou aprendendo:
+### 🌱 Atualmente estou aprendendo _Java_. Trabalho com um sistema desde 2019 e esta linguagem de programação auxilia na integração de programas, APIs, entre outras funcionalidades.  
           
 ### 📅 Data Base:
 <img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/><br/>
