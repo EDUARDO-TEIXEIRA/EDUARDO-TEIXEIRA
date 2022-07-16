@@ -1,9 +1,10 @@
 ## Olá, meu nome é Eduardo Teixeira. Bem vindo (a) ao meu GitHub 👋<br/>
 ####  Redes Sociais
 <a href="https://linkedin.com/in/eduardo-felicidade" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/EDUARDO-TEIXEIRA/arquivos-midia/blob/main/linkedin.svg" /> 
-<a href="https://t.me/eduardoteixeira" target="_blank"><img width="23px" src="https://github.com/EDUARDO-TEIXEIRA/arquivos-midia/blob/main/telegram.svg" target="_blank"></a>
-<a href="https://www.instagram.com/eduardo_felic/" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/EDUARDO-TEIXEIRA/arquivos-midia/blob/main/instagram.svg"/> 
-  <a href="mailto:eduardo_teixeiraa@hotmail.com" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/EDUARDO-TEIXEIRA/arquivos-midia/blob/main/email.svg" /> 
+<a href="https://t.me/eduardoteixeira" target="_blank"><img width="23px" src="https://github.com/EDUARDO-TEIXEIRA/arquivos-midia/blob/main/telegram.svg"></a>
+<a href="https://www.instagram.com/eduardo_felic/" target="_blank">
+  <img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/EDUARDO-TEIXEIRA/arquivos-midia/blob/main/instagram.svg"/> </a>
+  <a href="mailto:eduardo_teixeiraa@hotmail.com" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/EDUARDO-TEIXEIRA/arquivos-midia/blob/main/email.svg"/> </a>
 <br/>
 
 - 🧑‍💻Capixaba da gema, 24 anos, apaixonado por tecnologia, profissional versátil, gosto de desafios, tenho obessão em aprender coisas novas, prefiro manter boas amizades. 
