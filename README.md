@@ -1,6 +1,7 @@
 ## Olá, meu nome é Eduardo Teixeira. Bem vindo (a) ao meu GitHub 👋
 - 🧑‍💻Capixaba da gema, 24 anos, apaixonado por tecnologia, profissional versátil, gosto de desafios, tenho obessão em aprender coisas novas, prefiro manter boas amizades. 
 - 🍵Café? Aceito!   
+- 🌱 Atualmente estou estudando Java 
 - 🔭 Estou trabalhando em uma empresa como analista de sistemas
 - 📚 Formação acadêmica em Sistema da Informação
 ![Snake animation](https://github.com/EDUARDO-TEIXEIRA/EDUARDO-TEIXEIRA/blob/output/github-contribution-grid-snake.svg)
@@ -13,10 +14,12 @@
 ### Atualmente estou aprendendo:
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
           
-### 🖥️ Tecnologias e Ferramentas:
+### 📅 Data Base:
+<code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/></code> 
+
+### 🖥️ Outras Ferramentas e Tecnologias:
 <div><br/>
-<div>
-<code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/></code>  
+<div> 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
