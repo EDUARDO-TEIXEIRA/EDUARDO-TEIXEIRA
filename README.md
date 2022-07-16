@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://github.com/eduardo-teixeira">
   <img widht="35%" src="https://github-readme-stats.vercel.app/api?username=eduardo-teixeira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img widht="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-teixeira&layout=compact&langs_count=7&theme=dark"/>
+    <img widht="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-teixeira&layout=compact&langs_count=7&theme=dark"/>
 </div>
           
 ### Atualmente estou aprendendo:
