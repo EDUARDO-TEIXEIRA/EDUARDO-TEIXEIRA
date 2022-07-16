@@ -25,6 +25,7 @@
 <img align="left" alt="java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="javascript" width="26px" src="https://github.com/EDUARDO-TEIXEIRA/arquivos-midia/blob/main/javascript.svg" />
 <img lign="left" alt="GitHub" width="26px" src="https://github.com/EDUARDO-TEIXEIRA/arquivos-midia/blob/main/github.svg" /> 
 <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
 <br/><br/>   
