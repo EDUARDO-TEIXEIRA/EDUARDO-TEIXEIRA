@@ -28,6 +28,6 @@
 <img lign="left" alt="GitHub" width="26px" src="https://github.com/EDUARDO-TEIXEIRA/arquivos-midia/blob/main/github.svg" /> 
 <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
 <br/>  
-**📝Nota: ** Utilizo o banco de dados _Oracle_ no ERP e por isto é uma das tecnologias que sempre estou estudando devido a usabilidade no trabalho, já fiz uso também dos SGBD Firebird e SQL Server.
+📝Nota: Utilizo o banco de dados Oracle no ERP e por isto é uma das tecnologias que sempre estou estudando devido a usabilidade no trabalho, já fiz uso também dos SGBD Firebird e SQL Server.
 
 </div>
