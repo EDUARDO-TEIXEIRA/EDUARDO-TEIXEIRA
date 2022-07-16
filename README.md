@@ -1,4 +1,5 @@
 ## Olá, meu nome é Eduardo Teixeira. Bem vindo (a) ao meu GitHub 👋
+![Snake animation](https://github.com/EDUARDO-TEIXEIRA/EDUARDO-TEIXEIRA/blob/output/github-contribution-grid-snake.svg)
 - 🔭 Estou trabalhando em uma empresa como analista de sistemas
 - 📚 Formação acadêmica em Sistema da Informação
 - 🧑‍💻Apaixonado por tecnologia
