@@ -7,17 +7,16 @@
 <br/>
 
 - 🧑‍💻Capixaba da gema, 24 anos, apaixonado por tecnologia, profissional versátil, gosto de desafios, tenho obessão em aprender coisas novas, prefiro manter boas amizades. 
-- 🍵Café? Aceito!    
 - 🔭 Estou trabalhando em uma empresa como analista de sistemas
+- 🌱 Atualmente estou aprendendo _Java_. Trabalho com um sistema desde 2019 e esta linguagem de programação auxilia na integração de programas, APIs, entre outras funcionalidades.  
+- 🍵Café? Aceito!    
 - 📚 Formação acadêmica em Sistema da Informação
 ![Snake animation](https://github.com/EDUARDO-TEIXEIRA/EDUARDO-TEIXEIRA/blob/output/github-contribution-grid-snake.svg)
 <div align="center">
   <a href="https://github.com/eduardo-teixeira">
   <img widht="35%" src="https://github-readme-stats.vercel.app/api?username=eduardo-teixeira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img widht="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-teixeira&layout=compact&langs_count=7&theme=dark"/>
-</div>
-          
-### 🌱 Atualmente estou aprendendo _Java_. Trabalho com um sistema desde 2019 e esta linguagem de programação auxilia na integração de programas, APIs, entre outras funcionalidades.  
+ </div>
           
 ### 📅 Data Base:
 <img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/><br/>
