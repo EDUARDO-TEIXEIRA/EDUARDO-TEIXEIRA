@@ -19,15 +19,15 @@
     <img widht="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-teixeira&layout=compact&langs_count=7&theme=dark"/>
  </div>
           
-### 📅 Data Base:
-<img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/><br/>
-### 🖥️ Outras Ferramentas e Tecnologias:
-<div>
+### 🖥️ Ferramentas e Tecnologias:
+<div> 
 <img align="left" alt="eclipse-ide" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Eclipse-SVG.svg"/>
 <img align="left" alt="java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img lign="left" alt="GitHub" width="26px" src="https://github.com/EDUARDO-TEIXEIRA/arquivos-midia/blob/main/github.svg" /> 
 <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
+  
+*Nota:* Utilizo o banco de dados _Oracle_ no ERP e por isto é uma das tecnologias que sempre estou estudando devido a usabilidade no trabalho, já fiz uso também dos SGBD Firebird e SQL Server.
 
 </div>
