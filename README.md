@@ -13,6 +13,8 @@
 - 🍵Café? Aceito!    
 - 📚 Formação acadêmica em Sistema da Informação
 ![Snake animation](https://github.com/EDUARDO-TEIXEIRA/EDUARDO-TEIXEIRA/blob/output/github-contribution-grid-snake.svg)
+ #### 📊 Github Stats:
+
 <div align="center">
   <a href="https://github.com/eduardo-teixeira">
   <img widht="35%" src="https://github-readme-stats.vercel.app/api?username=eduardo-teixeira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
