@@ -1,4 +1,11 @@
 ## Olá, meu nome é Eduardo Teixeira. Bem vindo (a) ao meu GitHub 👋<br/>
+
+<div align="center">
+
+  ![ezgif com-gif-maker](https://user-images.githubusercontent.com/34588048/205417942-fefae887-39d6-4e1c-a0dd-3dff34e9c0d8.gif)
+  
+</div>
+
 ####  Redes Sociais
 <a href="https://linkedin.com/in/eduardo-felicidade" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/EDUARDO-TEIXEIRA/arquivos-midia/blob/main/linkedin.svg" /> 
 <a href="https://t.me/eduardoteixeira" target="_blank"><img width="23px" src="https://github.com/EDUARDO-TEIXEIRA/arquivos-midia/blob/main/telegram.svg"></a>
