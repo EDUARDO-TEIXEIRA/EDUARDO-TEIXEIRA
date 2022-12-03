@@ -14,7 +14,7 @@
   <a href="mailto:eduardo_teixeiraa@hotmail.com" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/EDUARDO-TEIXEIRA/arquivos-midia/blob/main/email.svg"/> </a>
 <br/>
 
-- 🧑‍💻Capixaba da gema, 24 anos, apaixonado por tecnologia, profissional versátil, gosto de desafios, tenho obessão em aprender coisas novas, prefiro manter boas amizades. 
+- 🧑‍💻Capixaba da gema, casado, amante da tecnologia, profissional versátil, gosto de desafios, tenho obessão em aprender coisas novas, prefiro manter boas amizades. 
 - 🔭 Estou trabalhando em uma empresa como analista de sistemas
 - 🌱 Atualmente estou aprendendo _Java_. Trabalho com um sistema desde 2019 e esta linguagem de programação auxilia na integração de programas, APIs, entre outras funcionalidades.  
 - 🍵Café? Aceito!    
@@ -27,7 +27,7 @@
   <img widht="35%" src="https://github-readme-stats.vercel.app/api?username=eduardo-teixeira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img widht="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-teixeira&layout=compact&langs_count=7&theme=dark"/>
  </div>
-          
+<!-- 
 ### 🖥️ Ferramentas e Tecnologias:
 <div> 
 <img align="left" alt="visual-studio-code" width="26px" src="https://github.com/EDUARDO-TEIXEIRA/arquivos-midia/blob/main/visual-studio-code.svg"/>
@@ -41,6 +41,8 @@
 <img lign="left" alt="GitHub" width="26px" src="https://github.com/EDUARDO-TEIXEIRA/arquivos-midia/blob/main/github.svg" /> 
 <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
 <br/><br/>   
+
 📝Nota: Utilizo o banco de dados Oracle no ERP e por isto é uma das tecnologias que sempre estou estudando devido a usabilidade no trabalho, já fiz uso também dos SGBD Firebird e SQL Server.
 
 </div>
+-->
